@@ -23,7 +23,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/Giozar/send-mail-serverless.git.git
+$ git clone https://github.com/Giozar/aws-lambda-send-mail.git
 $ pnpm install
 $ pnpm run dev
 ```
